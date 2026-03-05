@@ -63,7 +63,7 @@ window.location.href = "https://drive.google.com/drive/folders/1PsfetoNrBnnZKJfX
 }
 
 else if(code === "Conceal"){
-window.location.href = "https://drive.google.com/drive/folders/1RG-tTTqOjUfVC-Icwf88DYH6BUL";
+window.location.href = "https://drive.google.com/drive/folders/1avXZGAJ8vFJAAbkx1YkMAF0mP68ek7u_";
 }
 
 else{
