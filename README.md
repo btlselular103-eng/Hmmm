@@ -59,11 +59,11 @@ function checkCode(){
 let code = document.getElementById("codeBox").value;
 
 if(code === "NyXTvutx"){
-window.location.href = "https://drive.google.com/drive/folders/1PsfetoNrBnnZKJfXmgSYzsTsaep_RXC3";
+window.open("https://drive.google.com/drive/folders/1PsfetoNrBnnZKJfXmgSYzsTsaep_RXC3", "_blank");
 }
 
 else if(code === "Conceal"){
-window.location.href = "https://drive.google.com/drive/folders/1avXZGAJ8vFJAAbkx1YkMAF0mP68ek7u_";
+window.open("https://drive.google.com/drive/folders/1avXZGAJ8vFJAAbkx1YkMAF0mP68ek7u_", "_blank");
 }
 
 else{
